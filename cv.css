@@ -1,0 +1,30 @@
+#header{
+	display: grid;
+	grid-template-columns: 2fr 5fr;
+	background: black;
+	color: white;
+}
+#image{
+	height: 120px;
+	width: 120px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 50px;
+}
+#exp1{
+	display: grid;
+	grid-template-columns: 4fr 3fr 4frss;
+}
+
+
+#underline{
+	width: 900px;
+	height: 10px;
+	background: black;
+	margin-top: 10px;
+}
+#wrapper{
+	padding: 0px;
+	margin-top: 40px;
+}
+
